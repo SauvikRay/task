@@ -1,16 +1,5 @@
-# softic_task
+# This task is submitted by Sauvik
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.Didn't use getx forgot to use it. 
+2. Use hive for local storage.
+3. Unable to create product due to api.Reject my request, It will be better if the api is more documented. 
